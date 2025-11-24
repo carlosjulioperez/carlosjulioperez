@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Carlos Julio 👋<br><br>
-Welcome to my portfolio 👇
+Welcome to my portfolio 👇<br>
 👉 **https://github.com/carlosjulioperez/portfolio/blob/main/README.md** <br><br>
 [Portfolio](https://github.com/carlosjulioperez/portfolio/blob/main/README.md)
