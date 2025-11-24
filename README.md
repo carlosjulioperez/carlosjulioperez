@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Portfolio
-Hi, I'm Carlos Julio.<br>
+Hi, I'm Carlos Julio.<br><br>
 👉 This is my [Portfolio](https://github.com/carlosjulioperez/portfolio/blob/main/README.md)
