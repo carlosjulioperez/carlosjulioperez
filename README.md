@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Carlos Julio 👋<br>
-Welcome to my portfolio 👇<br><br>
+Welcome to my portfolio 👇<br>
 # Portfolio
 * [DemoBank: Microservices with Java, SpringBoot, Docker and Kubernetes](https://github.com/carlosjulioperez/portfolio/blob/main/README.md) <br>
-* [JobPoral: Full-Stack Java Development with Spring Boot 3 and React](https://github.com/carlosjulioperez/jobportal)
+* [JobPortal: Full-Stack Java Development with Spring Boot 3 and React](https://github.com/carlosjulioperez/jobportal)
