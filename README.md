@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Carlos Julio 👋<br>
-Welcome to my portfolio 👇<br>
+# Hi, I'm Carlos Julio, welcome 👋<br>
 # Portfolio
 ## Java
 * [DemoBank: Microservices with Java, SpringBoot, Docker and Kubernetes](https://github.com/carlosjulioperez/portfolio/blob/main/README.md) <br>
